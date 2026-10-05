@@ -503,7 +503,7 @@
         },
         {
           "category": "meta",
-          "message": "Version 207 (latest: 207)",
+          "message": "Version 208 (latest: 208)",
           "name": "schema_version",
           "status": "ok"
         },
